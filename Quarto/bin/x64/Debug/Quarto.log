@@ -1,0 +1,10 @@
+﻿  Board.cpp
+C:\Users\blaga\Downloads\Quarto (Step 5) Board iterators and UnitTests-20220112\Quarto\Board.cpp(124,14): error C2039: 'all_of': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\optional(31): message : see declaration of 'std'
+C:\Users\blaga\Downloads\Quarto (Step 5) Board iterators and UnitTests-20220112\Quarto\Board.cpp(124,20): error C3861: 'all_of': identifier not found
+  BoardStateChecker.cpp
+c1xx : fatal error C1083: Cannot open source file: 'BoardStateChecker.cpp': No such file or directory
+  QuartoGame.cpp
+C:\Users\blaga\Downloads\Quarto (Step 5) Board iterators and UnitTests-20220112\Quarto\QuartoGame.cpp(5,10): fatal error C1083: Cannot open include file: 'BoardStateChecker.h': No such file or directory
+  UnusedPieces.cpp
+  Generating Code...
